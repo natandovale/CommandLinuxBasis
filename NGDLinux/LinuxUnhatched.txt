@@ -1,0 +1,29 @@
+Abrir terminal comando:
+Windows => Windows + R ; digite powershell
+Linux => Ctrl + Alt + T
+
+ls: this command displays a listing of information about files.
+Most commands follow a simple pattern of syntax:
+command [options] [arguments]
+
+*Arguments
+The "ls" command can be given the name of a directory as an argument, 
+and it will list the contents of that directory.
+ls Documents
+
+*Options
+Can be used to alter the behavior of a command.
+Ls - L or Ls-lr
+-l gives a long listing format while
+-r reverses the listing
+
+Printing working directory
+"pwd"
+
+Absolute paths: An absolute path allows you to specify the exact location of
+a directory. It always start at the root directory, therefore it always begins 
+with the / character. Ex: /home/sysadmin
+
+Relative Pathd:A relative path gives directions to a file relative to your 
+current location in the filesystem. They start with the name of a directory.
+ 
